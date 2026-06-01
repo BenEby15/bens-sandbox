@@ -1,0 +1,14 @@
+{
+  "name": "body-shop-marketing",
+  "owner": {
+    "name": "Body Shop Marketing",
+    "email": "benjamin@bodyshopmarketing.io"
+  },
+  "plugins": [
+    {
+      "name": "all-county-collision",
+      "source": "./",
+      "description": "Content writing skill for All County Collision (Eustis, FL). Generates blogs, website content, service pages, GBP posts, FAQs, press releases, and social posts using approved brand knowledge."
+    }
+  ]
+}
