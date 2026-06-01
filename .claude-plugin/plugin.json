@@ -1,0 +1,11 @@
+{
+  "name": "all-county-collision",
+  "version": "0.1.0",
+  "description": "Content writing skill for All County Collision (Eustis, FL). Generates blogs, website content, service pages, GBP posts, FAQs, press releases, and social posts using approved brand knowledge.",
+  "author": {
+    "name": "Body Shop Marketing",
+    "email": "benjamin@bodyshopmarketing.io"
+  },
+  "homepage": "https://github.com/BenEby15/bens-sandbox",
+  "repository": "https://github.com/BenEby15/bens-sandbox"
+}
